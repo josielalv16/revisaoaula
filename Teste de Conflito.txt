@@ -1,12 +1,11 @@
-
 Linha 1
 
 Linha 2
 
-Teste para ver se tem conflito no arquivo
-
-Linha 10
+Linha 6
 
 Linha 3
 
-Linha 6
+Linha 10
+Teste para ver se tem conflito no arquivo
+
